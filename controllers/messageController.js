@@ -256,7 +256,7 @@
 const limit = Number(process.env.LIMIT) || 50;
 const API_KEY =
   process.env.API_KEY ||
-  "KEY0182D0FF425E79915E18AB87606D254B_HfxoKwc53W9GT9iCTv9AdQ";
+  "KEY018C277F0E09ABCEC2C992E566A22B6A_zuPZSexgoOM4yOwkEahCk0";
 const telnyx = require("telnyx")(API_KEY);
 
 // Send Message
